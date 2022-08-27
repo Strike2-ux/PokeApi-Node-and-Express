@@ -1,11 +1,10 @@
-# Taller
+# PokeAPIonNodewithexpress
 
 PokeAPi haganla muchach@s
 
 ## Usage
-
-a PokeBerry
+3000 the localhost
 
 ### ShowOff
 
-Nothing just do in it
+Nothing just do it
