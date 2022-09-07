@@ -68,7 +68,7 @@ const allPokemon = [{
     type: "bug",
     url: "https://pokeapi.co/api/v2/pokemon/10/",
     image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png"
-      },
+    },
 {
     id:"11",
     name: "metapod",
@@ -130,6 +130,12 @@ const allPokemon = [{
     type:"normal",
     url: "https://pokeapi.co/api/v2/pokemon/20/",
     image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png"
+},{
+    id:"21",
+    name: "spearow",
+    type:"flying",
+    url: "https://pokeapi.co/api/v2/pokemon/21/",
+    image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png"
 }]
 
 
