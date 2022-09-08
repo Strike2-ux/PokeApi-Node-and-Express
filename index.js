@@ -136,6 +136,78 @@ const allPokemon = [{
     type:"flying",
     url: "https://pokeapi.co/api/v2/pokemon/21/",
     image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png"
+},{
+    id:"22",
+    name: "fearow",
+    type:"flying",
+    url: "https://pokeapi.co/api/v2/pokemon/22/",
+    image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png"
+},{
+    id:"23",
+    name: "ekans",
+    type:"poison",
+    url: "https://pokeapi.co/api/v2/pokemon/23/",
+    image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png"
+},{
+    id:"24",
+    name: "arbok",
+    type:"poison",
+    url: "https://pokeapi.co/api/v2/pokemon/24/",
+    image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png"
+},{
+    id:"25",
+    name: "pikachu",
+    type:"electric",
+    url: "https://pokeapi.co/api/v2/pokemon/25/",
+    image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
+},{
+    id:"26",
+    name: "raichu",
+    type:"electric",
+    url: "https://pokeapi.co/api/v2/pokemon/26/",
+    image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png"
+},{
+    id:"27",
+    name: "sandshrew",
+    type:"ground",
+    url: "https://pokeapi.co/api/v2/pokemon/27/",
+    image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png"
+},{
+    id:"28",
+    name: "sandslash",
+    type:"ground",
+    url: "https://pokeapi.co/api/v2/pokemon/28/",
+    image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png"
+},{
+    id:"29",
+    name: "nidoran♀",
+    type:"poison",
+    url: "https://pokeapi.co/api/v2/pokemon/29/",
+    image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png"
+},{
+    id:"30",
+    name: "nidorina",
+    type:"poison",
+    url: "https://pokeapi.co/api/v2/pokemon/30/",
+    image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png"
+},{
+    id:"31",
+    name: "nidoqueen",
+    type:"poison",
+    url: "https://pokeapi.co/api/v2/pokemon/31/",
+    image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png"
+},{
+    id:"32",
+    name: "nidoran♂",
+    type:"poison",
+    url: "https://pokeapi.co/api/v2/pokemon/32/",
+    image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png"
+},{
+    id:"33",
+    name: "nidorino",
+    type:"poison",
+    url: "https://pokeapi.co/api/v2/pokemon/33/",
+    image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png"
 }]
 
 
