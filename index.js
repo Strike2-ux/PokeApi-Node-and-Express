@@ -229,6 +229,12 @@ const allPokemon = [{
     type1:"ground",
     url: "https://pokeapi.co/api/v2/pokemon/33/",
     image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png"
+},{
+    id:"422",
+    name: "shellos",
+    type0:"water",
+    url: "https://pokeapi.co/api/v2/pokemon/422/",
+    image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/422.png"
 }]
 
 
