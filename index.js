@@ -230,6 +230,18 @@ const allPokemon = [{
     url: "https://pokeapi.co/api/v2/pokemon/33/",
     image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png"
 },{
+    id:"35",
+    name: "Clefairy",
+    type0:"fairy",
+    url: "https://pokeapi.co/api/v2/pokemon/35/",
+    image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png"
+},{
+    id:"36",
+    name: "Clefable",
+    type0:"fairy",
+    url: "https://pokeapi.co/api/v2/pokemon/36/",
+    image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png"
+},{
     id:"422",
     name: "shellos",
     type0:"water",
