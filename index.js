@@ -989,7 +989,15 @@ const allPokemon = [{
     type0:"water",
     url: "https://pokeapi.co/api/v2/pokemon/422/",
     image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/422.png"
-}]
+},
+{
+    id:"423",
+    name: "Lucario",
+    type0:"psychic",
+    url: "https://pokeapi.co/api/v2/pokemon/423/",
+    image_url: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/785.png"
+}
+]
 
 
 app.get('/pokemon/:id/type/', (req, res) => {
